@@ -1,4 +1,4 @@
-### ESTRUCTURA CONDICIONALES ANIDADAS
+### ESTRUCTURAS CONDICIONALES ANIDADAS
 
 * #### PROBLEMA: Confeccionar un programa que pida por teclado tres notas de un alumno, calcule el promedio e imprima alguno de estos mensajes:
 #### Si el promedio es >=7 mostrar "Promocionado".
